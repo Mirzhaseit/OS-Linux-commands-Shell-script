@@ -1115,7 +1115,7 @@ bcdfghj
 ubcdfghj
 ```
 awk -f nc.awk data.dat
-## OUTPUT 
+## OUTPUT  
  
 cat > palindrome.sh
 ```bash
