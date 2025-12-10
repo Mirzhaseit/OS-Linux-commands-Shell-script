@@ -955,11 +955,7 @@ do
 echo The next state is $test
 done
  ```
- 
-$ chmod 755 forin1.sh
 
- ## OUTPUT
- ![image](https://github.com/user-attachments/assets/4e76d522-4f16-454a-954d-f796f775aaa3)
 
  
 cat forin2.sh 
