@@ -1042,7 +1042,7 @@ Khammam
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/7934026f-f4b3-449f-91ee-247abb2eff01)
+<img width="841" height="693" alt="image" src="https://github.com/user-attachments/assets/e5d8d9e4-3040-44ed-b9e6-f0b4f505156b" />
 
 
 
@@ -1058,7 +1058,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/78654c91-5e21-4518-89c0-b1a3e2696fd5)
+<img width="837" height="659" alt="image" src="https://github.com/user-attachments/assets/ca32d7af-7861-4c90-b68b-2b21066d5462" />
 
 
 
@@ -1074,7 +1074,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/cc0f4d8d-faf2-4639-9394-481d65f8213f)
+<img width="826" height="694" alt="image" src="https://github.com/user-attachments/assets/978a9a76-5075-449f-9f0f-a5813cce25cc" />
 
 
 
@@ -1095,7 +1095,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
-![image](https://github.com/user-attachments/assets/d08497a9-2281-4004-8b91-2de581c7c0b3)
+<img width="834" height="688" alt="image" src="https://github.com/user-attachments/assets/e5670630-9bb8-47ee-a91f-0dd0bc8fe759" />
 
  
 cat forbreak.sh 
@@ -1138,7 +1138,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/dba1e608-c664-454e-bfbe-2eb9e1a01ec4)
+<img width="835" height="707" alt="image" src="https://github.com/user-attachments/assets/5f7010d9-4040-4b08-bd38-0ceed9f902bd" />
 
  
 cat exread.sh 
@@ -1154,7 +1154,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/39ac29cf-8e3b-4e71-bc7b-fb80c44561b9)
+<img width="828" height="711" alt="image" src="https://github.com/user-attachments/assets/aafb081c-81cf-4a5b-bef8-ad63270431ef" />
 
 
  cat exread1.sh
@@ -1187,7 +1187,7 @@ fi
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/78d106b5-349f-41b9-be1c-7b423b660559)
+<img width="847" height="211" alt="image" src="https://github.com/user-attachments/assets/343e4fb3-414d-4289-bf6b-2f9403022d7c" />
 
 
  ./funcex.sh 
@@ -1206,7 +1206,7 @@ done
 ```
 $ chmod 777 argshift.sh
 
-![image](https://github.com/user-attachments/assets/6bbf25ff-deed-4b7a-9b0b-6337b956e486)
+<img width="837" height="673" alt="image" src="https://github.com/user-attachments/assets/19099036-5149-4af0-985e-0df185de754f" />
 
 
 ## OUTPUT
@@ -1230,7 +1230,7 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
 
- ![image](https://github.com/user-attachments/assets/1838e628-eff1-489a-8332-f70bb34bf5fe)
+<img width="821" height="483" alt="image" src="https://github.com/user-attachments/assets/fa24218c-13f0-4d15-953f-ff6e49547485" />
 
 
 cat argshift.sh
@@ -1245,7 +1245,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- ![image](https://github.com/user-attachments/assets/22c0ccff-9fde-4e3a-a259-da97c8afbd71)
+<img width="821" height="483" alt="image" src="https://github.com/user-attachments/assets/76857edf-87b0-4b86-b288-63d435284078" />
 
  
 cat > nc.awk
