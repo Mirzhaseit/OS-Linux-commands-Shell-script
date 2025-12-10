@@ -654,7 +654,8 @@ echo "$val1 is less than $val2"
 fi
 ```
 ##OUTPUT
-![image](https://github.com/user-attachments/assets/3df7ed21-c154-4cd3-89a6-285ead81b28b)
+<img width="852" height="596" alt="image" src="https://github.com/user-attachments/assets/00d671a3-f34f-4597-b932-a185f79fafa3" />
+
 
 
 
@@ -662,7 +663,8 @@ chmod 755 strcomp.sh
  
 ./strcomp.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/1045ad7d-9745-4464-82e3-d76012b3e761)
+<img width="852" height="596" alt="image" src="https://github.com/user-attachments/assets/95174055-b786-4cbb-a37f-c48fb439cad3" />
+
 
 
 # check file ownership
@@ -690,7 +692,8 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4b930435-4abb-40cd-a088-f4cab02bad4c)
+<img width="820" height="410" alt="image" src="https://github.com/user-attachments/assets/f5bc2843-0e2e-4c05-aeeb-73fae00638ff" />
+
 
 
 # check if with file location
@@ -737,8 +740,8 @@ fi
 ```
 
 ./ifnested.sh 
-## OUTPUT
-![image](https://github.com/user-attachments/assets/24322a45-c048-4a66-bd8d-ea749c611486)
+## OUTPUT<img width="800" height="651" alt="image" src="https://github.com/user-attachments/assets/2bab4f81-d611-420e-b738-1a338596c603" />
+
 
 
 
@@ -783,7 +786,7 @@ $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
 ##OUTPUT
-![image](https://github.com/user-attachments/assets/b24eb56c-c19f-4e02-bc45-11f20f5cbede)
+<img width="851" height="557" alt="image" src="https://github.com/user-attachments/assets/59aa79fa-689d-4639-bdfd-1d5df0a0a9e5" />
 
 
 # check if a file
@@ -834,7 +837,7 @@ $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
 ##OUTPUT
-![image](https://github.com/user-attachments/assets/b01445b3-9206-4083-af24-4d1cfc2502d4)
+<img width="870" height="639" alt="image" src="https://github.com/user-attachments/assets/c5b0f5c8-84a7-48ad-b285-e288ab3e4f97" />
 
 
 
@@ -865,7 +868,7 @@ $ chmod 755 elifcheck.sh
  
 $ ./elifcheck.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/cd1aa62a-067f-459c-81be-39919a9daa1a)
+<img width="794" height="554" alt="image" src="https://github.com/user-attachments/assets/2ea3144c-4f5f-43db-b4dc-68e3b311e100" />
 
 
 # testing compound comparisons
@@ -882,7 +885,7 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/2a35a23e-6e64-4fc6-b959-f377b66acf25)
+<img width="827" height="495" alt="image" src="https://github.com/user-attachments/assets/f9c304f2-c67a-4e3e-92c7-cb277c22a541" />
 
 
 # using the case command
@@ -905,7 +908,7 @@ $ chmod 755 casecheck.sh
 $ ./casecheck.sh 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/620b3c00-a8a5-4ccd-9989-b1b2fe27f4dd)
+<img width="813" height="540" alt="image" src="https://github.com/user-attachments/assets/5722382a-8619-4db9-83f6-a34f999b79df" />
 
  
 cat > whiletest
@@ -924,7 +927,7 @@ $ chmod 755 whiletest.sh
 $ ./whiletest.sh
 
 ## OUTPUT
- ![image](https://github.com/user-attachments/assets/eb20e411-016f-4f6f-baef-16787a7d30f7)
+<img width="833" height="709" alt="image" src="https://github.com/user-attachments/assets/fd7b17bb-0a42-4976-8ae6-86ac1e103962" />
 
  
 cat untiltest.sh 
@@ -940,7 +943,7 @@ done
 $ chmod 755 untiltest.sh
 
  ## OUTPUT
- ![image](https://github.com/user-attachments/assets/ef4144dc-a5c2-46f1-b799-40cb12073d3e)
+<img width="855" height="664" alt="image" src="https://github.com/user-attachments/assets/c26e9b92-4435-44fd-811b-9d664ffcd437" />
 
  
 cat forin1.sh 
@@ -985,7 +988,7 @@ $ chmod 755 forin2.sh
 $ ./forin2.sh 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a6b24ec4-7bb2-4bde-a721-c597ef75f674)
+<img width="821" height="288" alt="image" src="https://github.com/user-attachments/assets/9b89d155-db66-4752-8c14-7991fdf1e8a5" />
 
  
 cat forin3.sh 
@@ -1025,7 +1028,7 @@ done
 
 $ chmod 777 forinfile.sh
 
-![image](https://github.com/user-attachments/assets/6e44d87a-137a-4d79-9cc2-6e7ef6011eaf)
+<img width="819" height="377" alt="image" src="https://github.com/user-attachments/assets/1a8fe250-cb6f-4a38-8821-7b90f5f1e6c8" />
 
 ```
 $ cat cities
